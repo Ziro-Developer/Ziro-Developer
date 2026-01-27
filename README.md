@@ -5,7 +5,7 @@ hi, im Ziro 🔮.
 
 @@advanced programming student.@@
 + living in tel aviv, israel.
-- 15 years old
+- 30 years old
 ! program engineer, web developer and discord bots 
 # 📖 reverse engineering, computer science
 ```
