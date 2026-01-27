@@ -9,6 +9,3 @@ hi, im Ziro 🔮.
 ! program engineer, web developer and discord bots 
 # 📖 reverse engineering, computer science
 ```
-------
-[jewdev](https://github.com/ZIRO-DEVELOPER)
-Last Edited on: 06/09/2010
